@@ -32,7 +32,7 @@ https://news-distillery.herokuapp.com/
   ## Questions
   :alien: email me!<br />
   <br />
-  :octocat: Find me on GitHub: [Cluce059](https://github.com/Cluce059)<br />
+  :octocat: Find me on GitHub: [connerc11](https://github.com/connerc11)<br />
   <br />
-  :speech_balloon: Email: Cluce059@gmail.com<br /><br />
-  _This README was generated with :heart: by [README-generator](https://github.com/Cluce059/readme-generator)  :eyes::eyes::eyes:_
+  :speech_balloon: Email: cccochrane1@knights.ucf.edu<br /><br />
+  
