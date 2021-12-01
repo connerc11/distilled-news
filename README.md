@@ -1,12 +1,19 @@
 # Distilled News Hub
   ![badge](https://img.shields.io/badge/license--blueviolet)
   <br />
+  
+  ## Profile 
+  - Conner Cochrane 
+  - Front End Developer
+  - Check out Questions below for more information!
+  
   ## Description
-  :mag: A distilled news aplication that allows you to search for articles! This can allow you to view articles while you have spare time! Feel free to search for anything of your liking!
+  :mag: A distilled news aplication that allows you to search for articles! This can allow you to view articles while you have spare time! Feel free to search for anything of your liking! The app was created using React, enabling a front end and a back end for the project to run. The app is broken into sections, using two sections in order to create the files for sections of the project. Linking the front end to the backend was possible by requiring it within the file needed. 
 ![Get Started](./views/image-1.png)
 ![Get Started](./views/image-2.png)
 
   ## Table of Contents
+  - [Profile](#profile)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -26,7 +33,7 @@
   :innocent: PR's welcome
   ## Tests
   :exclamation: 
-    Run the application and create an account, log out and log back in and see your fitness plan has been saved.
+    Run the application and create an account, log out and log back in and see your articles that you have selected have been saved.
   ## URL
 https://news-distillery.herokuapp.com/
   ## Questions
